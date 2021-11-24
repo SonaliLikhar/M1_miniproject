@@ -22,3 +22,8 @@ Geeks for Geeks
 Tutorial Point
 
 W3 Schools
+
+
+![code quality score](https://api.codiga.io/project/29953/status/svg)
+
+![Quality grade](https://api.codiga.io/project/29953/score/svg)  
